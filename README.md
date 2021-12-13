@@ -7,5 +7,5 @@ an elevator pitch: a simple app that accepts salary/income, taxrate, and previou
 screen shots
 
 developer notes (e.g. what technologies you are using, what packages your using, etc.)
-uses react, reactnative, async
+uses react, reactnative, async, expo
 
